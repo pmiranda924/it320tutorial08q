@@ -1,6 +1,6 @@
 #Ignore the local .env file
 #
-.env
+*.env
 #Ignore the sql backup file and decrypt test file
 #
 my-detest.sql
